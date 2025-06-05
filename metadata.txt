@@ -2,7 +2,7 @@
 name=Round_Coordinates
 qgisMinimumVersion=3.0
 description=Round all the coordinates of a polyline layer to the nearest metre, without decimals.
-about=Round all the coordinates of a polyline layer to the nearest metre, without decimals.
+about=Round all the coordinates of a polyline layer to the nearest metre, without decimals. Developped as part of Q-Traf, a macroscopic traffic program working with QGis
 version=1.0
 email=jm.brabant@oceavia.nc
 author=Jean Marie BRABANT

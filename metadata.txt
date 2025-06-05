@@ -1,0 +1,14 @@
+[general]
+name=Round_Coordinates
+qgisMinimumVersion=3.0
+description=Round all the coordinates of a polyline layer to the nearest metre, without decimals.
+about=Round all the coordinates of a polyline layer to the nearest metre, without decimals.
+version=1.0
+email=jm.brabant@oceavia.nc
+author=Jean Marie BRABANT
+changelog=None
+tags=round, coordinate, polyline layer
+homepage=https://github.com/jm-brabant/round_coordinates
+repository=https://github.com/jm-brabant/round_coordinates
+tracker=https://github.com/jm-brabant/round_coordinates/issues
+icon=icon.png
